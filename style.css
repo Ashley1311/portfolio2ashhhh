@@ -1,0 +1,30 @@
+/* ================= STYLE.CSS ================= */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  background: linear-gradient(to right, #0b3d47, #0b3d47);
+  color: #1fc2c4;
+  padding: 100px 0;
+}
+
+.section-title {
+  font-weight: bold;
+  margin-bottom: 30px;
+  background-color:rgb(212, 236, 132);
+}
+ 
+
+.card:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
+  background-color: aquamarine;
+}
+
+footer {
+  background: #222;
+  color: cadetblue;
+  text-align: center;
+  padding: 15px;
+}
